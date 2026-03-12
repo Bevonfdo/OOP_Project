@@ -1,4 +1,4 @@
-package com.salon.salon.model;
+package com.salon.model;
 
 public class RegularUser extends User {
 
